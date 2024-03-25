@@ -1,3 +1,74 @@
-#heading {
-  color: brown;
+.logo {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  height: 100px;
+  width: 100px;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 20px;
+  border: 1px solid red;
+}
+.nav-items > ul {
+  display: flex;
+  font-size: 24px;
+}
+.nav-items > ul > li {
+  list-style-type: none;
+  padding: 5px;
+}
+.search {
+  padding: 10px;
+  font-size: 24px;
+}
+.restro-card {
+  width: 200px;
+
+  padding: 5px;
+}
+.restro-card > img {
+  height: 200px;
+}
+.restro-card:hover {
+  border: 1px solid black;
+  cursor: pointer;
+}
+.restro-logo {
+  width: 100%;
+}
+.res-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.filter {
+  margin: 5px;
+  display: flex;
+}
+
+.filter-btn {
+  padding: 5px;
+  border: 1px solid rgb(235, 48, 6);
+  border-radius: 10px;
+  cursor: pointer;
+}
+.simmer-card {
+  height: 400px;
+  width: 200px;
+  margin: 5px;
+  padding: 10px;
+  background-color: rgb(223, 236, 236);
+}
+.simmer-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.login {
+  padding: 5px;
+  margin: 5px;
+  width: 70px;
+}
+.search-btn {
+  margin-left: 5px;
+  cursor: pointer;
 }

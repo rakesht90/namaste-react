@@ -1,5 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
+import Header from "./components/Header";
+import Body from "./components/Body";
 
 // const heading = React.createElement(
 //   "h1",
@@ -19,18 +21,29 @@ import ReactDOM from "react-dom/client";
 //   ]),
 // ]);
 // jsx (is transpiled before it reaches the js engine)- parcel - babel
-const JsxHeading = () => (
-  <h1 id="heading" className="heading1">
-    Jsx heading
-  </h1>
-);
+// const JsxHeading = () => (
+//   <h1 id="heading" className="heading1">
+//     Jsx heading
+//   </h1>
+// );
 // console.log(parent);
 // console.log(jsxHeading);
-const ReactComponent = () => (
-  <div id="container">
-    {JsxHeading()}
-    <h1 className="heading">Nameste React</h1>
-  </div>
-);
+// const ReactComponent = () => (
+//   <div id="container">
+//     {JsxHeading()}
+//     <h1 className="heading">Nameste React</h1>
+//   </div>
+// );
+
+const Footer = () => {};
+const AppLayout = () => {
+  return (
+    <div className="container">
+      <Header />
+      <Body />
+      <Footer />
+    </div>
+  );
+};
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<ReactComponent />);
+root.render(<AppLayout />);
