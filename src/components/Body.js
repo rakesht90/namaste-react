@@ -10,7 +10,7 @@ const Body = () => {
     const filterData = restaurants.filter((restro) => {
       return restro?.info?.avgRating > 4.0;
     });
-    setRestaurantList(filterData);
+    setFilterList(filterData);
   };
 
   useEffect(() => {
@@ -56,13 +56,6 @@ const Body = () => {
               const filterList = restaurantList.filter((res) =>
                 res.info.name.toLowerCase().includes(searchText.toLowerCase())
               );
-              if (filterList.length === 0) {
-                return (
-                  <div>
-                    <h1>No item found with search {searchText}</h1>
-                  </div>
-                );
-              }
               setFilterList(filterList);
             }}
           >

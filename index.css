@@ -18,9 +18,9 @@
   list-style-type: none;
   padding: 5px;
 }
-.search {
-  padding: 10px;
-  font-size: 24px;
+
+.body {
+  margin-top: 10px;
 }
 .restro-card {
   width: 200px;
@@ -47,9 +47,6 @@
 }
 
 .filter-btn {
-  padding: 5px;
-  border: 1px solid rgb(235, 48, 6);
-  border-radius: 10px;
   cursor: pointer;
 }
 .simmer-card {
@@ -69,6 +66,6 @@
   width: 70px;
 }
 .search-btn {
-  margin-left: 5px;
+  margin-inline: 5px;
   cursor: pointer;
 }
