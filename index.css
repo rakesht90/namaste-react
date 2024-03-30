@@ -69,3 +69,16 @@
   margin-inline: 5px;
   cursor: pointer;
 }
+.horizonalLine {
+  height: 2px;
+  border-width: 0;
+  color: gray;
+  background-color: gray;
+}
+.menu-item-list {
+  font-size: 20px;
+}
+.offer-tag {
+  color: orange;
+  padding-left: 10px;
+}
