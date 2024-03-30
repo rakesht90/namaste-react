@@ -5,10 +5,12 @@ import Shimmer from "./Shimmer";
 
 import { Link } from "react-router-dom";
 import useRestaurantList from "../utils/useRestaurantList";
+import useOnlineStatus from "../utils/useOnlineStatus";
 const Body = () => {
   const restaurantList = useRestaurantList();
   const [filterList, setFilterList] = useState([]);
   const [searchText, setSearchText] = useState("");
+  const onlineStatus = useOnlineStatus();
   useEffect(() => {
     setFilterList(restaurantList);
   }, [restaurantList]);
@@ -26,6 +28,14 @@ const Body = () => {
 
     setFilterList(finalFilteredList);
   };
+
+  if (!onlineStatus) {
+    return (
+      <div>
+        <h1 className="onlineStatsus">Please Check your internet connection</h1>
+      </div>
+    );
+  }
 
   return restaurantList?.length === 0 ? (
     <Shimmer />

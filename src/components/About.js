@@ -28,8 +28,8 @@ class About extends Component {
           <h2>Users Details</h2>
           <Users name="Rakesh" location="Patna" />
           <div>--------------------------------</div>
-          <UserClass name="Rajat" location="Delhi" />
-          <UserClass name="Rajat" location="Delhi" />
+          {/* <UserClass name="Rajat" location="Delhi" />
+          <UserClass name="Rajat" location="Delhi" /> */}
         </div>
       </div>
     );
