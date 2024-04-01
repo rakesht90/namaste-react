@@ -9,12 +9,11 @@ const useRestaurantMenu = ({ resId }) => {
     }
   }, []);
   const fetchMenu = async () => {
-    console.log("SWIGGY_MENU +", resId);
     const data = await fetch(SWIGGY_MENU + resId);
     const json = await data.json();
     setMenuInfo(json);
   };
-  console.log("useMenuInfo", menuInfo);
+
   return menuInfo;
 };
 export default useRestaurantMenu;

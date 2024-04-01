@@ -13,18 +13,29 @@ const RestroCard = (props) => {
   } = resData?.info;
 
   return (
-    <div className="restro-card">
+    <div className="w-64 rounded-lg p-2 bg-slate-100 hover:bg-slate-200">
       <img
         alt="food"
-        className="restro-logo"
+        className="h-48 w-48 rounded-xl"
         src={CDN_URL + cloudinaryImageId}
       />
-      <h3>{name}</h3>
-      <h3>{cuisines.join(", ")}</h3>
-      <h3>{deliveryTime} minutes</h3>
-      <h3>{costForTwo}</h3>
+      <h3 className="font-bold py-2">{name}</h3>
+      <h3 className="py-2">{cuisines.join(", ")}</h3>
+      <h3 className="py-2">{deliveryTime} minutes</h3>
+      <h3 className="py-2">{costForTwo}</h3>
       <h3>{avgRating} stars</h3>
     </div>
   );
 };
 export default RestroCard;
+
+export const PromtedLabel = (RestroCard) => {
+  return (props) => {
+    return (
+      <div>
+        <p className="absolute p-1 m-2 bg-slate-700 rounded-xl ">Promted</p>
+        <RestroCard {...props} />
+      </div>
+    );
+  };
+};

@@ -1,5 +1,6 @@
 import { useParams } from "react-router-dom";
 import useRestaurantMenu from "../utils/useRestaurantMenu";
+import MenuItems from "./MenuItems";
 
 const RestaurantMenu = () => {
   const params = useParams();
@@ -7,43 +8,49 @@ const RestaurantMenu = () => {
   const { resId } = params;
   const menuInfo = useRestaurantMenu({ resId });
 
+  const menuCategories =
+    menuInfo?.data?.cards[5]?.groupedCard.cardGroupMap?.REGULAR?.cards.filter(
+      (c) => {
+        return (
+          c?.card?.card?.["@type"] ===
+          "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory"
+        );
+      }
+    );
+  console.log("menuCategories", menuCategories);
   const { cuisines, areaName, feeDetails, avgRating, costForTwoMessage } =
     menuInfo?.data?.cards[2]?.card?.card?.info || {};
 
-  const { title = "Default Value", itemCards = [] } =
-    menuInfo?.data?.cards[5]?.groupedCard.cardGroupMap?.REGULAR?.cards[4].card
-      ?.card || {};
-
   return (
-    <div className="Menu-container">
+    <div className="w-full m-12 p-8 justify-center">
       {menuInfo && (
-        <>
-          <div>
-            <h1>{menuInfo?.data?.cards[0].card?.card?.text}</h1>
+        <div className="py-2 items-center from-neutral-500 ">
+          <h1 className="font-bold text-2xl">
+            {menuInfo?.data?.cards[0].card?.card?.text}
+          </h1>
 
-            <h3>{cuisines?.join(", ")}</h3>
-            <h3>{areaName}</h3>
-            <h3>{feeDetails?.message}</h3>
-            <h3>{avgRating}</h3>
-            <h3>{costForTwoMessage}</h3>
+          <h3 className="from-neutral-200 text-slate-500">
+            {cuisines?.join(", ")}
+          </h3>
+          <div className="py-2 my-2">
+            <div className="flex pr-4 mr-8 text-slate-400">
+              <h3>❇️{avgRating}</h3>
+              <h3 className="pl-4">{costForTwoMessage}</h3>
+            </div>
+            <h3 className="text-slate-400">🌏{areaName}</h3>
+
+            <h3 className="text-slate-400"> 🚴🏿‍♂️{feeDetails?.message}</h3>
           </div>
-          <div className="horizonalLine"></div>
-          <div>
-            <h1>{title}</h1>
-            {itemCards?.map((item) => (
-              <div className="menu-item-list" key={item.card.info.id}>
-                <h3>{item.card.info.name}</h3>
-                <h3>
-                  ₹
-                  {(item?.card?.info?.price / 100) |
-                    (item?.card?.info?.defaultPrice / 100)}
-                </h3>
-                <div className="horizonalLine"></div>
-              </div>
-            ))}
-          </div>
-        </>
+
+          <div className="w-full  shadow-xl"></div>
+        </div>
       )}
+      <hr class="h-px my-8 bg-gray-300 border-0 dark:bg-gray-700"></hr>
+      {menuCategories?.map((category) => (
+        <div className="py-4 m-4" key={category.card.card.title}>
+          <MenuItems data={category.card.card} />
+        </div>
+      ))}
     </div>
   );
 };
