@@ -1,9 +1,11 @@
 import { useParams } from "react-router-dom";
 import useRestaurantMenu from "../utils/useRestaurantMenu";
 import MenuItems from "./MenuItems";
+import { useState } from "react";
 
 const RestaurantMenu = () => {
   const params = useParams();
+  const [showIndex, setShowIndex] = useState(0);
 
   const { resId } = params;
   const menuInfo = useRestaurantMenu({ resId });
@@ -17,7 +19,7 @@ const RestaurantMenu = () => {
         );
       }
     );
-  console.log("menuCategories", menuCategories);
+
   const { cuisines, areaName, feeDetails, avgRating, costForTwoMessage } =
     menuInfo?.data?.cards[2]?.card?.card?.info || {};
 
@@ -46,9 +48,13 @@ const RestaurantMenu = () => {
         </div>
       )}
       <hr class="h-px my-8 bg-gray-300 border-0 dark:bg-gray-700"></hr>
-      {menuCategories?.map((category) => (
+      {menuCategories?.map((category, index) => (
         <div className="py-4 m-4" key={category.card.card.title}>
-          <MenuItems data={category.card.card} />
+          <MenuItems
+            data={category.card.card}
+            showItem={index === showIndex}
+            setShowIndex={() => setShowIndex(index)}
+          />
         </div>
       ))}
     </div>

@@ -1,13 +1,9 @@
-import { useState } from "react";
 import ItemsList from "./ItemsList";
 
-const MenuItems = (props) => {
-  const [showItem, setShowItem] = useState(true);
+const MenuItems = ({ showItem, setShowIndex, data }) => {
   const handleShowItem = () => {
-    setShowItem(!showItem);
+    setShowIndex((prevState) => !prevState);
   };
-  const category = props.data;
-  console.log(category);
   return (
     <div>
       <div className="w-6/12 mx-auto my-4 bg-grey-100 p-4">
@@ -16,12 +12,15 @@ const MenuItems = (props) => {
           className="flex justify-between cursor-pointer"
         >
           <span className="font-bold text-xl">
-            {category?.title}({category?.itemCards.length})
+            {data?.title}({data?.itemCards.length})
           </span>
-          <span>⬇️</span>
+          <span>{showItem ? "⬆️" : "⬇️"}</span>
         </div>
 
-        {showItem && <ItemsList items={category?.itemCards} />}
+        {showItem &&
+          data?.itemCards?.map((item) => (
+            <ItemsList key={item.card.info.id} item={item} />
+          ))}
       </div>
     </div>
   );

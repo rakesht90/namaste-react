@@ -1,4 +1,4 @@
-import React, { Suspense, lazy } from "react";
+import React, { Suspense, lazy, useContext, useEffect, useState } from "react";
 import ReactDOM from "react-dom/client";
 import Header from "./components/Header";
 import Body from "./components/Body";
@@ -6,6 +6,7 @@ import { Outlet, RouterProvider, createBrowserRouter } from "react-router-dom";
 import ContactUs from "./components/ContactUs";
 import Error from "./components/Error";
 import RestaurantMenu from "./components/RestaurantMenu";
+import { UserContext } from "./utils/UserContext";
 
 // const heading = React.createElement(
 //   "h1",
@@ -42,11 +43,19 @@ import RestaurantMenu from "./components/RestaurantMenu";
 const Footer = () => {};
 const About = lazy(() => import("./components/About"));
 const AppLayout = () => {
+  const { loggedInUser } = useContext(UserContext);
+  const [userName, setUserName] = useState();
+  useEffect(() => {
+    const data = { name: "Rakesh Tiwari" };
+    setUserName(data.name);
+  }, []);
   return (
     <div className="container">
-      <Header />
-      <Outlet />
-      <Footer />
+      <UserContext.Provider value={{ loggedInUser: userName, setUserName }}>
+        <Header />
+        <Outlet />
+        <Footer />
+      </UserContext.Provider>
     </div>
   );
 };

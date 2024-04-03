@@ -1,15 +1,20 @@
 import { Link } from "react-router-dom";
 import { LOGO_URL } from "../utils/constants";
-import { useState } from "react";
+import { useContext, useState } from "react";
 import useOnlineStatus from "../utils/useOnlineStatus";
+import { UserContext } from "../utils/UserContext";
 
 export const Header = () => {
+  const { loggedInUser } = useContext(UserContext);
   const onlineStatus = useOnlineStatus();
   const [btnName, setBtnName] = useState("Login");
+
   return (
     <div className="flex bg-pink-200 p-4 m-4 justify-between items-center">
       <div className="w-24">
-        <img alt="logo" className="" src={LOGO_URL} />
+        <Link to="/">
+          <img alt="logo" className="" src={LOGO_URL} />
+        </Link>
       </div>
       <div className="">
         <ul className="flex">
@@ -25,6 +30,7 @@ export const Header = () => {
             <Link to="/about">About Us</Link>
           </li>
           <li className="px-4">Cart</li>
+          {btnName === "Logout" && <li className="px-4">{loggedInUser}</li>}
           <button
             className="px-4 bg-green-300 border rounded-lg "
             onClick={() => {
