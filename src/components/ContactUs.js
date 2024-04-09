@@ -1,11 +1,15 @@
 const ContactUs = () => {
   return (
-    <div className="contactUs">
-      <h1 className="heading"> Contact Us</h1>
-      <h3 className="description">
-        Our company ph:8743081175, email: rakesh.jmi90@gmail.com
-      </h3>
-    </div>
+    <>
+      <div className="heading">
+        <h1 className="text-4xl text-black border-lime-600"> Contact Us</h1>
+      </div>
+      <div>
+        <p className="text-xl">
+          Our company ph:8743081175, email: rakesh.jmi90@gmail.com
+        </p>
+      </div>
+    </>
   );
 };
 export default ContactUs;

@@ -7,6 +7,9 @@ import ContactUs from "./components/ContactUs";
 import Error from "./components/Error";
 import RestaurantMenu from "./components/RestaurantMenu";
 import { UserContext } from "./utils/UserContext";
+import { Provider } from "react-redux";
+import appStore from "./utils/appStore";
+import Cart from "./components/Cart";
 
 // const heading = React.createElement(
 //   "h1",
@@ -51,11 +54,13 @@ const AppLayout = () => {
   }, []);
   return (
     <div className="container">
-      <UserContext.Provider value={{ loggedInUser: userName, setUserName }}>
-        <Header />
-        <Outlet />
-        <Footer />
-      </UserContext.Provider>
+      <Provider store={appStore}>
+        <UserContext.Provider value={{ loggedInUser: userName, setUserName }}>
+          <Header />
+          <Outlet />
+          <Footer />
+        </UserContext.Provider>
+      </Provider>
     </div>
   );
 };
@@ -85,6 +90,7 @@ const appRouter = createBrowserRouter([
         path: "restaurant/:resId",
         element: <RestaurantMenu />,
       },
+      { path: "/cart", element: <Cart /> },
     ],
     errorElement: <Error />,
   },
