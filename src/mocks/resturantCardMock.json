@@ -1,0 +1,87 @@
+{
+    "info": {
+        "id": "608095",
+        "name": "Red Chilli",
+        "cloudinaryImageId": "ezcmxbmh9hdsklewg0gp",
+        "locality": "Saubhagya Sharma Path",
+        "areaName": "Khajpura",
+        "costForTwo": "₹328 for two",
+        "cuisines": [
+            "Chinese",
+            "Snacks",
+            "Tandoor",
+            "Fast Food"
+        ],
+        "avgRating": 3.9,
+        "parentId": "767",
+        "avgRatingString": "3.9",
+        "totalRatingsString": "1K+",
+        "promoted": true,
+        "adTrackingId": "cid=12396309~p=0~adgrpid=12396309#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=608095~eid=a53919c5-31d8-4d64-aa10-685f5afd7c7b~srvts=1712663737479~collid=45826",
+        "sla": {
+            "deliveryTime": 30,
+            "lastMileTravel": 2.6,
+            "serviceability": "SERVICEABLE",
+            "slaString": "25-30 mins",
+            "lastMileTravelString": "2.5 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2024-04-09 23:59:00",
+            "opened": true
+        },
+        "badges": {
+            "imageBadges": [
+                {
+                    "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png",
+                    "description": "OnlyOnSwiggy"
+                }
+            ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "textBased": {},
+                "imageBased": {
+                    "badgeObject": [
+                        {
+                            "attributes": {
+                                "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png",
+                                "description": "OnlyOnSwiggy"
+                            }
+                        }
+                    ]
+                },
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "₹120 OFF",
+            "subHeader": "ABOVE ₹199",
+            "discountTag": "FLAT DEAL"
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+            "aggregatedRating": {
+                "rating": "--"
+            }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {},
+    "cta": {
+        "link": "swiggy://menu?restaurant_id=608095",
+        "text": "RESTAURANT_MENU",
+        "type": "DEEPLINK"
+    }
+}

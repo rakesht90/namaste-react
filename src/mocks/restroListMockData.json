@@ -1,0 +1,1832 @@
+[
+  {
+    "info": {
+      "id": "608653",
+      "name": "Goila Butter Chicken",
+      "cloudinaryImageId": "5e19832da032dd69547565e27104706f",
+      "locality": "Khajpura",
+      "areaName": "Danapur Nizamat",
+      "costForTwo": "₹600 for two",
+      "cuisines": ["North Indian", "Biryani", "Kebabs", "Desserts"],
+      "avgRating": 4.3,
+      "parentId": "322587",
+      "avgRatingString": "4.3",
+      "totalRatingsString": "100+",
+      "promoted": true,
+      "adTrackingId": "cid=12446154~p=0~adgrpid=12446154#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=608653~eid=d18c534f-e66a-4f60-a1b0-5047d8723873~srvts=1712725638585~collid=45826",
+      "sla": {
+        "deliveryTime": 36,
+        "lastMileTravel": 1.2,
+        "serviceability": "SERVICEABLE",
+        "slaString": "35-40 mins",
+        "lastMileTravelString": "1.2 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-04-10 23:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "newg.png",
+            "description": "Gourmet"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "textExtendedBadges": {},
+          "textBased": {},
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "imageId": "newg.png",
+                  "description": "Gourmet"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹125 OFF",
+        "subHeader": "ABOVE ₹249",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {},
+    "cta": {
+      "link": "swiggy://menu?restaurant_id=608653",
+      "text": "RESTAURANT_MENU",
+      "type": "DEEPLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "506430",
+      "name": "Bikaner Elite",
+      "cloudinaryImageId": "dctjrj2xylwu772p4pzd",
+      "locality": "Saguna More",
+      "areaName": "Rukanpura",
+      "costForTwo": "₹411 for two",
+      "cuisines": ["Bakery", "Snacks", "South Indian", "Sweets"],
+      "avgRating": 4.5,
+      "veg": true,
+      "parentId": "45850",
+      "avgRatingString": "4.5",
+      "totalRatingsString": "1K+",
+      "sla": {
+        "deliveryTime": 25,
+        "lastMileTravel": 1.6,
+        "serviceability": "SERVICEABLE",
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "1.6 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-04-10 22:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "v1695133679/badges/Pure_Veg111.png",
+            "description": "pureveg"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "textExtendedBadges": {},
+          "textBased": {},
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "imageId": "v1695133679/badges/Pure_Veg111.png",
+                  "description": "pureveg"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹80 OFF",
+        "subHeader": "ABOVE ₹499",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {},
+    "cta": {
+      "link": "swiggy://menu?restaurant_id=506430",
+      "text": "RESTAURANT_MENU",
+      "type": "DEEPLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "659293",
+      "name": "Krishnashree",
+      "cloudinaryImageId": "d8d11b38fe1aa136b61d62949c1dfe2e",
+      "locality": "Jagdeo Path",
+      "areaName": "Khajpura",
+      "costForTwo": "₹400 for two",
+      "cuisines": ["Indian"],
+      "avgRating": 4.3,
+      "parentId": "484388",
+      "avgRatingString": "4.3",
+      "totalRatingsString": "1K+",
+      "sla": {
+        "deliveryTime": 31,
+        "lastMileTravel": 3,
+        "serviceability": "SERVICEABLE",
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "3.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-04-10 22:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "aggregatedDiscountInfoV2": {},
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "textExtendedBadges": {},
+          "textBased": {},
+          "imageBased": {}
+        }
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {},
+    "cta": {
+      "link": "swiggy://menu?restaurant_id=659293",
+      "text": "RESTAURANT_MENU",
+      "type": "DEEPLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "767229",
+      "name": "FNP Cakes By Ferns N Petals",
+      "cloudinaryImageId": "ec780807d6fade1fc1ed97dd3acc7e2b",
+      "locality": "Near Panchavat Ratnalay",
+      "areaName": "Gola Road",
+      "costForTwo": "₹499 for two",
+      "cuisines": ["Bakery"],
+      "avgRating": 3.6,
+      "veg": true,
+      "parentId": "339638",
+      "avgRatingString": "3.6",
+      "totalRatingsString": "10+",
+      "promoted": true,
+      "adTrackingId": "cid=12347030~p=1~adgrpid=12347030#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=767229~eid=ed4bf272-aab7-4a40-9068-a140a4b1ccb4~srvts=1712725638585~collid=45826",
+      "sla": {
+        "deliveryTime": 37,
+        "lastMileTravel": 1.2,
+        "serviceability": "SERVICEABLE",
+        "slaString": "35-40 mins",
+        "lastMileTravelString": "1.2 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-04-10 20:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "v1695133679/badges/Pure_Veg111.png",
+            "description": "pureveg"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "textBased": {},
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "pureveg",
+                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                }
+              }
+            ]
+          },
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "50% OFF",
+        "subHeader": "UPTO ₹100"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {},
+    "cta": {
+      "link": "swiggy://menu?restaurant_id=767229",
+      "text": "RESTAURANT_MENU",
+      "type": "DEEPLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "792568",
+      "name": "Vadilal Ice Creams",
+      "cloudinaryImageId": "5c9c72bfc2453f470ea11e22a16fc997",
+      "locality": "Ashokpuri Colony",
+      "areaName": "Khajpura",
+      "costForTwo": "₹250 for two",
+      "cuisines": ["Desserts"],
+      "avgRating": 4.6,
+      "parentId": "11745",
+      "avgRatingString": "4.6",
+      "totalRatingsString": "4",
+      "sla": {
+        "deliveryTime": 36,
+        "lastMileTravel": 3.8,
+        "serviceability": "SERVICEABLE",
+        "slaString": "35-40 mins",
+        "lastMileTravelString": "3.7 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-04-11 00:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textExtendedBadges": {},
+          "textBased": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "10% OFF",
+        "subHeader": "UPTO ₹40"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "isNewlyOnboarded": true,
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {},
+    "cta": {
+      "link": "swiggy://menu?restaurant_id=792568",
+      "text": "RESTAURANT_MENU",
+      "type": "DEEPLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "431612",
+      "name": "Harilal's",
+      "cloudinaryImageId": "ppgpbqbkrsmwqozmnak6",
+      "locality": "Bailey Road",
+      "areaName": "RPS More",
+      "costForTwo": "₹250 for two",
+      "cuisines": ["Sweets", "Bakery", "North Indian"],
+      "avgRating": 4.4,
+      "veg": true,
+      "parentId": "472621",
+      "avgRatingString": "4.4",
+      "totalRatingsString": "5K+",
+      "sla": {
+        "deliveryTime": 27,
+        "lastMileTravel": 1.1,
+        "serviceability": "SERVICEABLE",
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "1.1 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-04-10 22:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Rxawards/_CATEGORY-Desserts.png",
+            "description": "Delivery!"
+          },
+          {
+            "imageId": "Rxawards/_CATEGORY-Mithai.png",
+            "description": "Delivery!"
+          },
+          {
+            "imageId": "v1695133679/badges/Pure_Veg111.png",
+            "description": "pureveg"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "textBased": {},
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "imageId": "Rxawards/_CATEGORY-Desserts.png",
+                  "description": "Delivery!"
+                }
+              },
+              {
+                "attributes": {
+                  "imageId": "Rxawards/_CATEGORY-Mithai.png",
+                  "description": "Delivery!"
+                }
+              },
+              {
+                "attributes": {
+                  "description": "pureveg",
+                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                }
+              }
+            ]
+          },
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "20% OFF",
+        "subHeader": "UPTO ₹50"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {},
+    "cta": {
+      "link": "swiggy://menu?restaurant_id=431612",
+      "text": "RESTAURANT_MENU",
+      "type": "DEEPLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "717896",
+      "name": "Indima Kittu Food Court",
+      "cloudinaryImageId": "9c09f796fdfda24d0ba27dd97f08c958",
+      "locality": "Garden Hospital",
+      "areaName": "Khajpura",
+      "costForTwo": "₹400 for two",
+      "cuisines": ["North Indian", "Chinese", "Salads"],
+      "avgRating": 3.8,
+      "parentId": "428151",
+      "avgRatingString": "3.8",
+      "totalRatingsString": "20+",
+      "promoted": true,
+      "adTrackingId": "cid=12306007~p=2~adgrpid=12306007#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=717896~eid=e7e65541-3dbe-4ba6-8788-5ecbe48eba33~srvts=1712725638585~collid=45826",
+      "sla": {
+        "deliveryTime": 42,
+        "lastMileTravel": 3,
+        "serviceability": "SERVICEABLE",
+        "slaString": "40-45 mins",
+        "lastMileTravelString": "3.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-04-10 23:45:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "textExtendedBadges": {},
+          "textBased": {},
+          "imageBased": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹50 OFF",
+        "subHeader": "ABOVE ₹249",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {},
+    "cta": {
+      "link": "swiggy://menu?restaurant_id=717896",
+      "text": "RESTAURANT_MENU",
+      "type": "DEEPLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "579713",
+      "name": "GetAWay-Ice Creams & Desserts",
+      "cloudinaryImageId": "8194c8fed09497bce3714d2586653545",
+      "locality": "Gola Road Crossing",
+      "areaName": "Khajpura",
+      "costForTwo": "₹200 for two",
+      "cuisines": ["Ice Cream", "Desserts", "Healthy Food", "Sweets"],
+      "avgRating": 4.5,
+      "veg": true,
+      "parentId": "354819",
+      "avgRatingString": "4.5",
+      "totalRatingsString": "100+",
+      "sla": {
+        "deliveryTime": 19,
+        "lastMileTravel": 1.3,
+        "serviceability": "SERVICEABLE",
+        "slaString": "15-20 mins",
+        "lastMileTravelString": "1.2 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-04-11 00:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "v1695133679/badges/Pure_Veg111.png",
+            "description": "pureveg"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "textBased": {},
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "imageId": "v1695133679/badges/Pure_Veg111.png",
+                  "description": "pureveg"
+                }
+              }
+            ]
+          },
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "50% OFF",
+        "subHeader": "UPTO ₹100"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {},
+    "cta": {
+      "link": "swiggy://menu?restaurant_id=579713",
+      "text": "RESTAURANT_MENU",
+      "type": "DEEPLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "483009",
+      "name": "Kwality Walls Frozen Dessert and Ice Cream Shop",
+      "cloudinaryImageId": "ajfqjytbxd6dajl7vxzl",
+      "locality": "Ashokpuri Colony",
+      "areaName": "Khajpura",
+      "costForTwo": "₹200 for two",
+      "cuisines": ["Desserts", "Ice Cream", "Ice Cream Cakes"],
+      "avgRating": 4.7,
+      "veg": true,
+      "parentId": "582",
+      "avgRatingString": "4.7",
+      "totalRatingsString": "1K+",
+      "sla": {
+        "deliveryTime": 26,
+        "lastMileTravel": 3.8,
+        "serviceability": "SERVICEABLE",
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "3.7 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-04-11 00:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "textBased": {},
+          "imageBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "50% OFF",
+        "subHeader": "UPTO ₹100"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {},
+    "cta": {
+      "link": "swiggy://menu?restaurant_id=483009",
+      "text": "RESTAURANT_MENU",
+      "type": "DEEPLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "383591",
+      "name": "Tandoori Dhaba",
+      "cloudinaryImageId": "wrzeic0gsj8uh3h1ajej",
+      "locality": "Majistret colony",
+      "areaName": "Khajpura",
+      "costForTwo": "₹200 for two",
+      "cuisines": ["Chinese", "Indian", "Tandoor", "Biryani", "Snacks"],
+      "avgRating": 3.7,
+      "parentId": "9936",
+      "avgRatingString": "3.7",
+      "totalRatingsString": "1K+",
+      "promoted": true,
+      "adTrackingId": "cid=12540546~p=3~adgrpid=12540546#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=383591~eid=8e667f0f-e67f-4abb-93a6-1f13dc9ef4e4~srvts=1712725638585~collid=45826",
+      "sla": {
+        "deliveryTime": 46,
+        "lastMileTravel": 4.2,
+        "serviceability": "SERVICEABLE",
+        "slaString": "45-50 mins",
+        "lastMileTravelString": "4.1 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-04-10 22:15:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "textBased": {},
+          "imageBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹125 OFF",
+        "subHeader": "ABOVE ₹249",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {},
+    "cta": {
+      "link": "swiggy://menu?restaurant_id=383591",
+      "text": "RESTAURANT_MENU",
+      "type": "DEEPLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "331777",
+      "name": "La Pino'z Pizza",
+      "cloudinaryImageId": "healpsfc0yuplmblcraz",
+      "locality": "Saguna",
+      "areaName": "Khajpura",
+      "costForTwo": "₹400 for two",
+      "cuisines": ["Pizzas", "Pastas", "Italian", "Desserts", "Beverages"],
+      "avgRating": 4.2,
+      "parentId": "4961",
+      "avgRatingString": "4.2",
+      "totalRatingsString": "5K+",
+      "sla": {
+        "deliveryTime": 32,
+        "lastMileTravel": 1.1,
+        "serviceability": "SERVICEABLE",
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "1.1 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-04-10 23:59:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Rxawards/_CATEGORY-Pizza.png",
+            "description": "Delivery!"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Rxawards/_CATEGORY-Pizza.png"
+                }
+              }
+            ]
+          },
+          "textExtendedBadges": {},
+          "textBased": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "50% OFF",
+        "subHeader": "UPTO ₹100"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {},
+    "cta": {
+      "link": "swiggy://menu?restaurant_id=331777",
+      "text": "RESTAURANT_MENU",
+      "type": "DEEPLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "798534",
+      "name": "Nirula's",
+      "cloudinaryImageId": "1bf86b1f0c2b12f58e6da57fb66ec36b",
+      "locality": "Khajpura",
+      "areaName": "Khajpura",
+      "costForTwo": "₹250 for two",
+      "cuisines": [
+        "Ice Cream",
+        "Pizzas",
+        "Burgers",
+        "North Indian",
+        "Fast Food",
+        "Desserts",
+        "Beverages"
+      ],
+      "avgRating": 4.3,
+      "parentId": "1738",
+      "avgRatingString": "4.3",
+      "totalRatingsString": "50+",
+      "sla": {
+        "deliveryTime": 38,
+        "lastMileTravel": 5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "35-40 mins",
+        "lastMileTravelString": "5.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-04-10 23:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "textBased": {},
+          "imageBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "60% OFF",
+        "subHeader": "UPTO ₹120"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "isNewlyOnboarded": true,
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {},
+    "cta": {
+      "link": "swiggy://menu?restaurant_id=798534",
+      "text": "RESTAURANT_MENU",
+      "type": "DEEPLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "315710",
+      "name": "Cakewala",
+      "cloudinaryImageId": "tzqafwsqirlbljnhcpee",
+      "locality": "Khagaul Road",
+      "areaName": "Phulwari Sharif",
+      "costForTwo": "₹300 for two",
+      "cuisines": ["Bakery", "Desserts", "Sweets"],
+      "avgRating": 4,
+      "veg": true,
+      "parentId": "3492",
+      "avgRatingString": "4.0",
+      "totalRatingsString": "500+",
+      "promoted": true,
+      "adTrackingId": "cid=12517097~p=4~adgrpid=12517097#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=315710~eid=b6dc1def-4ca0-4921-9a9b-8bacbbf0ebb4~srvts=1712725638585~collid=45826",
+      "sla": {
+        "deliveryTime": 44,
+        "lastMileTravel": 6.9,
+        "serviceability": "SERVICEABLE",
+        "slaString": "40-45 mins",
+        "lastMileTravelString": "6.9 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-04-10 22:30:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "v1695133679/badges/Pure_Veg111.png",
+            "description": "pureveg"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "textBased": {},
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "imageId": "v1695133679/badges/Pure_Veg111.png",
+                  "description": "pureveg"
+                }
+              }
+            ]
+          },
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "FREE ITEM"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {},
+    "cta": {
+      "link": "swiggy://menu?restaurant_id=315710",
+      "text": "RESTAURANT_MENU",
+      "type": "DEEPLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "857760",
+      "name": "Ghar ka khana",
+      "cloudinaryImageId": "feb3a5f4ac0684cdc90dafe0d1fcde97",
+      "locality": "AG colony",
+      "areaName": "Khajpura",
+      "costForTwo": "₹200 for two",
+      "cuisines": ["Indian", "Snacks", "Chinese"],
+      "avgRating": 5,
+      "veg": true,
+      "parentId": "22458",
+      "avgRatingString": "5.0",
+      "totalRatingsString": "9",
+      "sla": {
+        "deliveryTime": 61,
+        "lastMileTravel": 6.9,
+        "serviceability": "SERVICEABLE",
+        "slaString": "60-65 mins",
+        "lastMileTravelString": "6.9 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-04-10 23:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "textExtendedBadges": {},
+          "textBased": {},
+          "imageBased": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "40% OFF",
+        "subHeader": "UPTO ₹200",
+        "discountTag": "SAVE BIG"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "isNewlyOnboarded": true,
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {},
+    "cta": {
+      "link": "swiggy://menu?restaurant_id=857760",
+      "text": "RESTAURANT_MENU",
+      "type": "DEEPLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "763458",
+      "name": "Chicago Pizza",
+      "cloudinaryImageId": "80f040545552605e33eba09f8fa30be9",
+      "locality": "Sahil Market",
+      "areaName": "Khajpura",
+      "costForTwo": "₹450 for two",
+      "cuisines": ["Pizzas", "Fast Food"],
+      "avgRating": 3.9,
+      "parentId": "60277",
+      "avgRatingString": "3.9",
+      "totalRatingsString": "100+",
+      "sla": {
+        "deliveryTime": 41,
+        "lastMileTravel": 5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "40-45 mins",
+        "lastMileTravelString": "5.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-04-10 23:59:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "textBased": {},
+          "imageBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "50% OFF",
+        "subHeader": "UPTO ₹100"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {},
+    "cta": {
+      "link": "swiggy://menu?restaurant_id=763458",
+      "text": "RESTAURANT_MENU",
+      "type": "DEEPLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "112054",
+      "name": "The Red Velvet",
+      "cloudinaryImageId": "kkfduxeoyq13skpoq38p",
+      "locality": "Danapur",
+      "areaName": "Khajpura",
+      "costForTwo": "₹350 for two",
+      "cuisines": ["Indian", "Chinese", "Tandoor"],
+      "avgRating": 4,
+      "parentId": "453119",
+      "avgRatingString": "4.0",
+      "totalRatingsString": "500+",
+      "promoted": true,
+      "adTrackingId": "cid=12381428~p=5~adgrpid=12381428#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=112054~eid=f5042cd1-5dcd-40f4-908e-a08a546a31df~srvts=1712725638585~collid=45826",
+      "sla": {
+        "deliveryTime": 35,
+        "lastMileTravel": 0.5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "0.5 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-04-10 23:59:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "newg.png",
+            "description": "Gourmet"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "textExtendedBadges": {},
+          "textBased": {},
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Gourmet",
+                  "imageId": "newg.png"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹125 OFF",
+        "subHeader": "ABOVE ₹249",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {},
+    "cta": {
+      "link": "swiggy://menu?restaurant_id=112054",
+      "text": "RESTAURANT_MENU",
+      "type": "DEEPLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "112643",
+      "name": "Shiva Chhappan Bhog",
+      "cloudinaryImageId": "je3jzdrklij6vf7oaml6",
+      "locality": "Khajpura",
+      "areaName": "Khajpura",
+      "costForTwo": "₹300 for two",
+      "cuisines": ["Sweets", "Chinese"],
+      "avgRating": 4.2,
+      "parentId": "438013",
+      "avgRatingString": "4.2",
+      "totalRatingsString": "5K+",
+      "sla": {
+        "deliveryTime": 37,
+        "lastMileTravel": 0.9,
+        "serviceability": "SERVICEABLE",
+        "slaString": "35-40 mins",
+        "lastMileTravelString": "0.8 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-04-10 21:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "v1695133679/badges/Pure_Veg111.png",
+            "description": "pureveg"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "imageId": "v1695133679/badges/Pure_Veg111.png",
+                  "description": "pureveg"
+                }
+              }
+            ]
+          },
+          "textExtendedBadges": {},
+          "textBased": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "10% OFF",
+        "subHeader": "UPTO ₹40"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "3.7",
+          "ratingCount": "1K+"
+        },
+        "source": "GOOGLE",
+        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {},
+    "cta": {
+      "link": "swiggy://menu?restaurant_id=112643",
+      "text": "RESTAURANT_MENU",
+      "type": "DEEPLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "698491",
+      "name": "Veggies Story",
+      "cloudinaryImageId": "c1ed4baa4922be2eeaba07075725cea7",
+      "locality": "Anandpur",
+      "areaName": "Khajpura",
+      "costForTwo": "₹300 for two",
+      "cuisines": ["Indian"],
+      "avgRating": 4.3,
+      "veg": true,
+      "parentId": "417563",
+      "avgRatingString": "4.3",
+      "totalRatingsString": "100+",
+      "sla": {
+        "deliveryTime": 44,
+        "lastMileTravel": 3.7,
+        "serviceability": "SERVICEABLE",
+        "slaString": "40-45 mins",
+        "lastMileTravelString": "3.7 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-04-10 22:30:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "v1695133679/badges/Pure_Veg111.png",
+            "description": "pureveg"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "textBased": {},
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "imageId": "v1695133679/badges/Pure_Veg111.png",
+                  "description": "pureveg"
+                }
+              }
+            ]
+          },
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹75 OFF",
+        "subHeader": "ABOVE ₹199",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {},
+    "cta": {
+      "link": "swiggy://menu?restaurant_id=698491",
+      "text": "RESTAURANT_MENU",
+      "type": "DEEPLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "550082",
+      "name": "Cake Celebration",
+      "cloudinaryImageId": "ta7jmfgbfy35xsaq65fc",
+      "locality": "Bitt Bibhag Colony",
+      "areaName": "Khajpura",
+      "costForTwo": "₹200 for two",
+      "cuisines": ["Bakery"],
+      "avgRating": 4,
+      "veg": true,
+      "parentId": "54796",
+      "avgRatingString": "4.0",
+      "totalRatingsString": "10+",
+      "promoted": true,
+      "adTrackingId": "cid=12424154~p=6~adgrpid=12424154#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=550082~eid=88711bd3-15df-4ab2-8ff2-7a88451f8c13~srvts=1712725638585~collid=45826",
+      "sla": {
+        "deliveryTime": 36,
+        "lastMileTravel": 4.1,
+        "serviceability": "SERVICEABLE",
+        "slaString": "35-40 mins",
+        "lastMileTravelString": "4.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-04-10 23:59:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textExtendedBadges": {},
+          "textBased": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹120 OFF",
+        "subHeader": "ABOVE ₹199",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {},
+    "cta": {
+      "link": "swiggy://menu?restaurant_id=550082",
+      "text": "RESTAURANT_MENU",
+      "type": "DEEPLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "112089",
+      "name": "The Napples - Hotel Amalfi Grand",
+      "cloudinaryImageId": "xpac0nn2dsry9ffxsrl4",
+      "locality": "Khajpura",
+      "areaName": "Khajpura",
+      "costForTwo": "₹400 for two",
+      "cuisines": ["North Indian", "Chinese", "Biryani"],
+      "avgRating": 4.4,
+      "parentId": "211790",
+      "avgRatingString": "4.4",
+      "totalRatingsString": "5K+",
+      "sla": {
+        "deliveryTime": 35,
+        "lastMileTravel": 3,
+        "serviceability": "SERVICEABLE",
+        "slaString": "35-40 mins",
+        "lastMileTravelString": "3.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-04-10 23:59:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "textBased": {},
+          "imageBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹125 OFF",
+        "subHeader": "ABOVE ₹249",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "4.2",
+          "ratingCount": "20+"
+        },
+        "source": "GOOGLE",
+        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {},
+    "cta": {
+      "link": "swiggy://menu?restaurant_id=112089",
+      "text": "RESTAURANT_MENU",
+      "type": "DEEPLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "328872",
+      "name": "PHNGO",
+      "cloudinaryImageId": "exvc15gozpdrr6nelftn",
+      "locality": "Gola road",
+      "areaName": "Khajpura",
+      "costForTwo": "₹200 for two",
+      "cuisines": ["Pizzas", "Chinese", "Fast Food"],
+      "avgRating": 3.7,
+      "parentId": "157606",
+      "avgRatingString": "3.7",
+      "totalRatingsString": "20+",
+      "promoted": true,
+      "adTrackingId": "cid=12499196~p=8~adgrpid=12499196#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=328872~eid=4c0a4fa3-99cb-45b7-8c33-4972e752ae2c~srvts=1712725638585~collid=45826",
+      "sla": {
+        "deliveryTime": 32,
+        "lastMileTravel": 0.5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "0.5 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-04-10 22:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "textBased": {},
+          "imageBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "50% OFF",
+        "subHeader": "UPTO ₹100"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {},
+    "cta": {
+      "link": "swiggy://menu?restaurant_id=328872",
+      "text": "RESTAURANT_MENU",
+      "type": "DEEPLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "778791",
+      "name": "Sagar Sweets & Namkeen",
+      "cloudinaryImageId": "effa5a0e7653573718b12862b211ba47",
+      "locality": "Shiv Mandir",
+      "areaName": "Khajpura",
+      "costForTwo": "₹300 for two",
+      "cuisines": ["Sweets", "Snacks"],
+      "avgRating": 4.1,
+      "veg": true,
+      "parentId": "464099",
+      "avgRatingString": "4.1",
+      "totalRatingsString": "100+",
+      "sla": {
+        "deliveryTime": 33,
+        "lastMileTravel": 3.5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "3.5 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-04-10 21:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textExtendedBadges": {},
+          "textBased": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "30% OFF",
+        "subHeader": "UPTO ₹150",
+        "discountTag": "SAVE BIG"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {},
+    "cta": {
+      "link": "swiggy://menu?restaurant_id=778791",
+      "text": "RESTAURANT_MENU",
+      "type": "DEEPLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "796469",
+      "name": "Pannalal",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/3/0999523d-c1af-4f8a-b4e8-585df5c0ec77_796469.jpg",
+      "locality": "Rupaspur",
+      "areaName": "Khajpura",
+      "costForTwo": "₹350 for two",
+      "cuisines": ["Sweets", "Indian", "Bakery", "South Indian", "Snacks"],
+      "avgRating": 4.2,
+      "parentId": "476074",
+      "avgRatingString": "4.2",
+      "totalRatingsString": "100+",
+      "sla": {
+        "deliveryTime": 36,
+        "lastMileTravel": 3,
+        "serviceability": "SERVICEABLE",
+        "slaString": "35-40 mins",
+        "lastMileTravelString": "3.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-04-10 22:30:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "textBased": {},
+          "imageBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "20% OFF",
+        "subHeader": "UPTO ₹50"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "isNewlyOnboarded": true,
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {},
+    "cta": {
+      "link": "swiggy://menu?restaurant_id=796469",
+      "text": "RESTAURANT_MENU",
+      "type": "DEEPLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "472173",
+      "name": "7th Heaven",
+      "cloudinaryImageId": "c0v3exgu5ksajphjqesv",
+      "locality": "Patliputra Colony",
+      "areaName": "Phulwari Sharif",
+      "costForTwo": "₹250 for two",
+      "cuisines": ["Desserts"],
+      "avgRating": 4.6,
+      "veg": true,
+      "parentId": "19",
+      "avgRatingString": "4.6",
+      "totalRatingsString": "100+",
+      "sla": {
+        "deliveryTime": 44,
+        "lastMileTravel": 6.9,
+        "serviceability": "SERVICEABLE",
+        "slaString": "40-45 mins",
+        "lastMileTravelString": "6.9 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-04-10 22:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Rxawards/_CATEGORY-Desserts.png",
+            "description": "Delivery!"
+          },
+          {
+            "imageId": "v1695133679/badges/Pure_Veg111.png",
+            "description": "pureveg"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "textBased": {},
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "imageId": "Rxawards/_CATEGORY-Desserts.png",
+                  "description": "Delivery!"
+                }
+              },
+              {
+                "attributes": {
+                  "imageId": "v1695133679/badges/Pure_Veg111.png",
+                  "description": "pureveg"
+                }
+              }
+            ]
+          },
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "30% OFF",
+        "subHeader": "UPTO ₹75"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {},
+    "cta": {
+      "link": "swiggy://menu?restaurant_id=472173",
+      "text": "RESTAURANT_MENU",
+      "type": "DEEPLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "489010",
+      "name": "Bengal Sweets",
+      "cloudinaryImageId": "oco3epsdohle3kc7ksww",
+      "locality": "Gola road",
+      "areaName": "Khajpura",
+      "costForTwo": "₹200 for two",
+      "cuisines": ["Sweets", "South Indian", "Snacks", "Bakery", "Chaat"],
+      "avgRating": 4,
+      "veg": true,
+      "parentId": "7206",
+      "avgRatingString": "4.0",
+      "totalRatingsString": "20+",
+      "sla": {
+        "deliveryTime": 30,
+        "lastMileTravel": 1,
+        "serviceability": "SERVICEABLE",
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "1.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-04-10 21:45:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "aggregatedDiscountInfoV2": {},
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "textBased": {},
+          "imageBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {},
+    "cta": {
+      "link": "swiggy://menu?restaurant_id=489010",
+      "text": "RESTAURANT_MENU",
+      "type": "DEEPLINK"
+    }
+  }
+]
